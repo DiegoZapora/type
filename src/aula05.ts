@@ -1,0 +1,13 @@
+let bosta:string|number
+bosta="Diego"
+bosta=2
+
+let samp=["BMRP", "NOVO", "AAAA", 100, 500]
+let valores=[10, 200, 300, "OI"]
+
+samp.push("CAVANDO")
+valores.push(50)
+
+console.log(samp)
+console.log(valores)
+console.log(bosta)
